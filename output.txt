@@ -1,0 +1,184 @@
+epoch 13
+src --> No ,-- I exaggerate ; I never thought there was any consecr ating virtue about her : it was rather a sort of pastille perfume she had left ; a scent of mus k and amber , than an odour of sanctity .
+tgt --> " Esa gero : non ho mai creduto che ali tasse intorno a lei qualche virtù santi ficante ; no , non aveva lasciato dietro a sé altro che l ' odore dell ' ambra e del muschio .
+predicted --> Non Ero mo non non avevo fosse veduto che avesse e che , lei , Qui , vincere condotto e , non potendo bisogno in a me ; che avevate ' animo , ' anima e l suo .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 14
+src --> I lingered ; the moon shut herself wholly within her chamber , and drew close her curtain of dense cloud : the night grew dark ; rain came driving fast on the gale .
+tgt --> Una lagrima mi oscurò la vista , lagrima di delusione e d ' impazienza : la rasciu gai tutta vergognosa e continuai a errare ; la luna era scomparsa del tutto dietro fitti nuvol oni , la notte si faceva sempre più buia , la pioggia aumentava .
+predicted --> " volta incontrare aveva senza scala del che aprì un , mi ' acqua , — carta casa e l , atte : camminare , la sua aveva alta . quale . a . . fra e quale che mostrò sfoggio più per e e vita e e
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 15
+src --> What a strange light inspired them !
+tgt --> Quale fiamma strana brillava in quegli occhi !
+predicted --> Che straordinaria ! donna una una occhi !
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 16
+src --> ' What about yesterday ' s conversation ?' asked Levin , who had finished dinner and sat blissfully blinking and puffing , quite unable to remember what yesterday ' s conversation had been about .
+tgt --> — Cosa ? Alla conversazione di ieri ? — disse Levin , socchiudendo beatamente gli occhi e riprendendo fiato dopo la fine del pasto , nell ’ impossibilità assoluta di ricordare quale fosse stata la conversazione del giorno innanzi .
+predicted --> — Che parliamo — vostra — lei ? — diceva Kitty , dopo gli l occhi che , il . pranzo scoperta del fratello di Levin ’ incontro della per Levin quando si la brillante vodka su tutto . .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 17
+src --> " This is not thy deception , nor thy witchcraft : it is the work of nature .
+tgt --> — Non è questo uno dei tuoi inganni , non è un effetto della tua potenza ; è opera della natura .
+predicted --> — Non è vero che dei suoi sentimenti ; ma è vero ' , mia . . di vero . natura .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 18
+src --> Alice sighed wearily . ' I think you might do something better with the time ,' she said , ' than waste it in asking riddles that have no answers .'
+tgt --> Alice sospirò seccata , e disse : — Ma credo potresti fare qualche cosa di meglio che perdere il tempo , pro ponendo indovinelli senza senso .
+predicted --> Alice intanto , : — mi : — Ora bene che : il cosa ; famiglia , vuole il vostro a se nome quello il il di
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 19
+src --> CHAPTER XV
+tgt --> XV .
+predicted --> XV
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 20
+src --> From my seat I could look down on Thornfield : the grey and battle mented hall was the principal object in the vale below me ; its woods and dark rookery rose against the west .
+tgt --> Dal posto dov ' ero seduta , scorgevo Thornfield , che , così scura , era l ' oggetto più saliente della valle ; e all ' est vedevo i boschi , ove si nascondevano le cornacchie .
+predicted --> Dal 14 dov ' era stata nella e può , la era con era , di di ' ultimo di di e signora . dissi , ' aria un ci e e e il era nella solitaria e
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 21
+src --> When he had got used to the dim light of the box , Vronsky again instinctively took in at one comprehensive glance all the points of his favourite mare . Frou - Frou was of medium size and by no means free from blem ish .
+tgt --> Abi tuato l ’ occhio alla penombra , Vronskij avvolse di nuovo con un solo sguardo le forme della sua cavalla favorita . Frou - Frou era una cavalla di media altezza , non senza difetti ; era tutta stretta di ossatura ed anche il petto molto sporgente era stretto .
+predicted --> Quando Mason che ’ impressione degli vista della la era con non in la a al lontana signore dell propria famiglia , gioia — - Frou - impossibile giacca rivolta seta quattro , e aveva roba , si notte piena neppure quel ansia egli ora malato . . della stato .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 22
+src --> The White Rabbit put on his spectacles . ' Where shall I begin , please your Majesty ?' he asked .
+tgt --> Il Coniglio bianco si mise gli occhiali e domandò : — Maestà , di grazia , di dove debbo incominciare ?
+predicted --> Giunto lunedì tu — alzò a occhiali — andò a — È perché perché te ! principessa Grace credo soffri ?
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 23
+src --> Nothing before lunch .
+tgt --> Faccio colazione .
+predicted --> Non la il
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 24
+src --> I quite forgot ... I have brought you a visitor !
+tgt --> Vi ho condotto un ospite .
+predicted --> Ho ho detto a po quando
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 25
+src --> After a while , finding that nothing more happened , she decided on going into the garden at once ; but , alas for poor Alice ! when she got to the door , she found she had forgotten the little golden key , and when she went back to the table for it , she found she could not possibly reach it : she could see it quite plainly through the glass , and she tried her best to climb up one of the legs of the table , but it was too slippery ; and when she had tired herself out with trying , the poor little thing sat down and cried .
+tgt --> Ma , povera Alice , quando di fronte alla porticina si accorse di aver dimenticata la chiavetta d ' oro , e quando corse al tavolo dove l ' aveva lasciata , rilevò che non poteva più giungervi : vedeva chiaramente la chiave attraverso il cristallo , e si sforzò di arrampicarsi ad una delle gambe del tavolo , e di sali rvi , ma era troppo sdrucciolevole . Dopo essersi chi sa quanto affatica ta per vincere quella difficoltà , la poverina si sedette in terra e pianse .
+predicted --> Dopo quando sendo e , eppure si veder a chiesa ?” sentì che mira amata e gioia , ' un , doveva i egli la mio nel si ' incontro vissuto , e il aveva era vedere scrivere . in il che voce della la quale alto e la mise di neve che Alice domandò domandò , dottore , e si continuo ce sulla si il un sì per due ta era dove più la , una la la per e sua , . . una , , ,
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 26
+src --> A hideous throng rush out forever ,
+tgt --> un ' orribile moltitudine si riversa eternamente ,
+predicted --> Se po idea piuttosto per sala pallida ripetuto ma
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 27
+src --> ' Daryalov fought a duel ...'
+tgt --> « Dar ’ jalov si è battuto in duello ...».
+predicted --> — A ’ ho del di giusta . Duchessa !
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 28
+src --> ' Take my things ,' said Karenin ; and somewhat relieved by the news that there was still some hope of her dying , he entered the ante - room .
+tgt --> — Prendi la roba — disse Aleksej Aleksandrovic e , provando un certo sollievo alla notizia che c ’ era pur sempre speranza di morte , entrò nell ’ ingresso .
+predicted --> — Signora un mia — disse il Aleksandrovic , , sentendo la ’ dovere , figlia , sp ’ era già des stato e vergogna , di nel ’ abito .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 29
+src --> This thought frightened him so much that he no longer understood anything at all .
+tgt --> E questo pensiero spaventò tanto Serëza che non capì più nulla .
+predicted --> Questo l si di del , che non gli quello di di
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 30
+src --> " Nonsense !
+tgt --> — Sciocchezze !
+predicted --> — Veramente !
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 31
+src --> Well , Dolly ,' he said , turning to his eldest daughter , ' and what is your prodigal about ?'
+tgt --> Be ’, Dolin ’ ka , che fa il tuo bel tomo ?
+predicted --> — ’, è dirti ka , cosa cosa caldo giorno Griša giovane — —
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 32
+src --> There was the beauty L id a , Korsunsky ' s wife , in an im possibly low dress , and the hostess , and there shone the bald head of Krivin who was always where the elite were ; youths who had not the courage to approach gazed in that direction , and there Kitty ' s eyes found Stephen , and then the lovely head and beautiful figure of Anna , in a black velvet dress .
+tgt --> Là , invero similmente scollata , stava la bella Li die , moglie di Korsunskij ; là c ’ era la padrona di casa , e là brillava con la sua calvizie Krivin , sempre presente nella cerchia migliore ; là guardavano i giovani ssimi , non os ando accostarsi , e là ella trovò Stiva e subito dopo vide la testa e la figura di Anna , in abito di velluto nero .
+predicted --> Qui dietro il il , , con seduto porta tappeto insieme e con e un e e le ’ era un bambina di casa tornai e un lo in la camera piccola pronta , e con per camera che . camminava che poi autorità e fronte e ti al una le ma la , teneva lui . lo gli , che Regina sul guardò moglie magra Giovanni d che uno da seta , ,
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 33
+src --> Friday said he would .
+tgt --> Bada di non mancare in nulla !»
+predicted --> — dietro dietro ne . loro .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 34
+src --> He alth is the great thing , and my health , thank God , has improved .'
+tgt --> Purché ci sia la salute , e la salute , grazie a Dio , s ’ è rimessa .
+predicted --> È è sappia almeno stessa di e mi mia , ci alla Dio il cosa ’ avvicina Ieri ”
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 35
+src --> ' What about ?' asked Kitty quickly , lifting her face in alarm .
+tgt --> — Di che ? — domandò Kitty in fretta , alzando spaventata la testa .
+predicted --> — Che che cosa — chiese Levin , francese . senza i . mia del
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 36
+src --> The pain she had inflicted on herself and her husband would now , she thought , be compens ated for by the fact that the matter would be settled .
+tgt --> Il dolore ch ’ ella aveva causato a se stessa e al marito nel pronunziare quelle parole , sarebbe stato com pensato , così ella immaginava , dal fatto che tutto si sarebbe definito .
+predicted --> Il cocchiere era ’ ella aveva dato un un stessa e pur piano , lavoro la di , ma andato impossibile ’ , gli come aveva lui che suo che la si Si definita per
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 37
+src --> At last he managed it , but only by acknowledging that a sense of pity , after the wine he had drunk , had misled him , that he had yielded to Anna ' s artful influence , and that he would avoid her in future .
+tgt --> Finalmente la calmò quando le confessò che il senso di pena unito al vino l ’ avevano messo fuor di strada e ch ’ egli aveva ceduto all ’ abile influenza di Anna , e che l ’ avrebbe evita ta .
+predicted --> Finalmente per fede e egli interessi il , suo della dover , a quale , ’ errore con a di lei gli che ’ ella si ricevuto Ieri ’ Io al Erano lei e era che non ’ aveva fatto proprii .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 38
+src --> I cannot call them handsome -- they were too pale and grave for the word : as they each bent over a book , they looked thoughtful almost to severity .
+tgt --> Non posso dire che fossero belle ; erano troppo pallide e troppo gravi , e mentre tenevano gli occhi sul libro mi parvero penso se e quasi se vere .
+predicted --> Non potevamo descrivere che la quelli sole avendo Reed belle per quindi sicura per sono ancora mi prese ordini , cielo nero ne cose , , poco morto un .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 39
+src --> She saw that in the evening Kitty read the Gospels in French ( given her by Madame Stahl ) – which she had not done before – that she avoided her Society acquaintances and made up to the invalids who were under Varenka ' s protection , and especially to the family of Petrov , a poor , sick artist .
+tgt --> La principessa notava che Kitty , di sera , leggeva un Vangelo francese che le aveva regalato la signora Stahl , cosa che prima non faceva ; sfuggiva le relazioni mondane e si accostava ai malati che erano sotto la protezione di Varen ’ ka , ed in particolare a una povera famiglia di un certo pittore , Petrov .
+predicted --> Si bambina si che tutti sempre in nuovo , era i giornale , e non era fatto la signorina Reed e e che non classe aveva , ma bene guance e , andò parla ad gesti , , , le sua del quella ’ ka e che ella casa tutto Bessie voce uscita . qualcuno ' In ; non .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 40
+src --> ' Yes , I went in for it long ago , and now have begun a little ,' answered Vronsky with a blush .
+tgt --> — Sì , molto tempo fa me ne sono interessato ed ora ho ripreso un poco — disse Vronskij , arrossendo .
+predicted --> — Ecco , ho meglio ... per l vado uscito e sicuramente tuo avuto di posto — e Dolly . sorridendo .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 41
+src --> ' There is no one whom it would be less unpleasant for me to meet than yourself ,' returned Vronsky . ' Excuse me .
+tgt --> — Non c ’ è nessuno che io possa vedere meno spiacevolmente di voi — disse Vronskij . — Perdonatemi .
+predicted --> — Non c ’ è una , può possa alzai quella di — la — disse . con — Ma cosa
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 42
+src --> Karenin was , however , so much upset that he did not at once understand the reasonableness of adultery by mutual consent and his perplexity was expressed in his looks ; but the lawyer immediately helped him .
+tgt --> Aleksej Aleksandrovic era così sconvolto che non capì subito la ragionevolezza dell ’ adulterio ammesso per reciproco accordo e si leggeva la perplessità nel suo sguardo ; ma l ’ avvocato gli venne subito in aiuto .
+predicted --> Aleksej Aleksandrovic , , bello le gli si la cosa cosa di ’ basta , , del qualche e la coprì il testa nella moschetto sguardo . ma non ’ aveva si si incontro un una .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 43
+src --> During this year he had been sent to school , and had learned to know his school mates and to like them .
+tgt --> E in quello stesso anno era stato messo a scuola e aveva imparato a conoscere e a voler bene ai compagni .
+predicted --> Gli qualunque fondo specchio momento sua stato all in cavallo e a estate a conoscere e Sergej suo tutto . bambini .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 44
+src --> ' What joy , Alexis !' she said , turning to Vronsky , who had dismounted and was walking toward them .
+tgt --> — Ecco , questa è una gioia , Aleksej ! — ella disse , volgendosi a Vronskij che era sceso da cavallo e si avvicinava a loro .
+predicted --> — Su , così è una cosa , ora Aleksandrovic — disse disse e e a Vronskij , era cortese tra lei . siccome inchinò . loro .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 45
+src --> The interior is nearly completed ,' said Anna .
+tgt --> Di dentro è già quasi tutto rifinito — disse Anna .
+predicted --> Il qui è tanto l mai . . disse . .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 46
+src --> But her face , which she wanted to seem stern and determined , expressed only perplexity and suffering .
+tgt --> Ma il viso al quale aveva voluto dare un ’ espressione severa e decisa , esprimeva smarrimento e pena .
+predicted --> Ma la dottore di di , svegliato venire la ’ espressione così , sprezzante , di a coi minestra .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 47
+src --> Whose fault is it ?'
+tgt --> Di chi la colpa ?
+predicted --> A quanti sta finestra ?
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 48
+src --> As , however , he kept on thinking how silly it was he found nothing to speak about and remained silent .
+tgt --> Ma poiché pensava di continuo come fosse sciocco tutto ciò , non trovava neppure un argomento di conversazione e taceva .
+predicted --> In quando l , sé nella se il , , fosse egli poteva in in sorriso di conversazione . di .
+--------------------------------------------------------------------------------------------------------------------------          
+epoch 49
+src --> CHAPTER XI .
+tgt --> CAPITOLO XI .
+predicted --> CAPITOLO XI .
